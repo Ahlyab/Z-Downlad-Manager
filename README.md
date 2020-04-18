@@ -4,7 +4,7 @@ This is an open-source tool for downloading files and videos. it allows users to
 # Installation Instructions
 1. Python 3 should be installed on your system
 2. install the following modules
- •  Pip install pafy
+ •  Pip install pafy</Br>
  •	Pip install humanize
  •	Pip install pyqt5ac
  •	Pip install youtube-dl
